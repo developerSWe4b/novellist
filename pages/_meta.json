@@ -1,0 +1,14 @@
+{
+  "index": "WebNovel",
+  "fantasy": "Fantasy",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://bento.me/pawit",
+    "newWindow": true
+  }
+}
